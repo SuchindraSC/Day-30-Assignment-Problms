@@ -1,0 +1,15 @@
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.exe
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.deps.json
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.CopyComplete
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+C:\Users\ADVANCED\Desktop\Day30 TDD\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.genruntimeconfig.cache

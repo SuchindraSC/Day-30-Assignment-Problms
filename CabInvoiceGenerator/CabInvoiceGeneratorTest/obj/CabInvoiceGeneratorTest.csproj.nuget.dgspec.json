@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGeneratorTest\\CabInvoiceGeneratorTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGeneratorTest\\CabInvoiceGeneratorTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGeneratorTest\\CabInvoiceGeneratorTest.csproj",
+        "projectName": "CabInvoiceGeneratorTest",
+        "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGeneratorTest\\CabInvoiceGeneratorTest.csproj",
+        "packagesPath": "C:\\Users\\ADVANCED\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGeneratorTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADVANCED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGenerator\\CabInvoiceGenerator.csproj": {
+                "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGenerator\\CabInvoiceGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGenerator\\CabInvoiceGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGenerator\\CabInvoiceGenerator.csproj",
+        "projectName": "CabInvoiceGenerator",
+        "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGenerator\\CabInvoiceGenerator.csproj",
+        "packagesPath": "C:\\Users\\ADVANCED\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Day30 TDD\\CabInvoiceGenerator\\CabInvoiceGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADVANCED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
